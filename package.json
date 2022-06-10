@@ -1,0 +1,19 @@
+{
+  "name": "sesnodejstutorial",
+  "version": "1.0.0",
+  "description": "A simple app made for NodeJS and SES Demonstration",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "NodeJS",
+    "SES",
+    "AWS"
+  ],
+  "author": "Rushank Shah",
+  "license": "ISC",
+  "dependencies": {
+    "node-ses": "^3.0.3"
+  }
+}
